@@ -1,4 +1,4 @@
-![image](https://github.com/patternizer/pha-frontend/blob/master/PLOTS/ireland_stations_5000.png)
+![image](https://github.com/patternizer/pha-frontend/blob/master/australia_perth_5000.png)
 
 # pha-frontend
 
